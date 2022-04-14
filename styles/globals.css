@@ -14,9 +14,7 @@
 body {
   overflow-x: hidden;
   position: relative;
-}
-main {
-  margin-top: 100px;
+  background-color: #e1e1e1;
 }
 
 h1 {
