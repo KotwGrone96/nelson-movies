@@ -113,6 +113,9 @@
     transition: all 0.3s;
     transform: translate(60px, 25px);
     height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   .btn_more_desktop:hover {
     background-color: #ff2929;
